@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600311049713",
+    "project_id": "ch-twopounds-todo-app",
+    "storage_bucket": "ch-twopounds-todo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600311049713:android:ba86f41e028a98808ae850",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWUu52dvMG1chDEswTp2OsiJUi2oh9fZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
